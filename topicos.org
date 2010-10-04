@@ -1,0 +1,15 @@
+Ítens do treinamento de Francis
+
+* Computação
+** Linux
+** Latex
+** Lilypond
+** Python
+** Emacs
+** Git
+** Humdrum
+* Música
+** Musicologia computacional
+** Contornos
+** Harmonia
+** Contraponto
