@@ -2,8 +2,67 @@
 
 * Computação
 ** Linux
+*** Uso básico do sistema:
+    manipulação de arquivos, gravação de CD e DVD, uso da internet e
+    email, ferramentas de escritório (Openoffice) e mensagem
+    instantânea.
+*** Programas:
+    Instalação de programas através do gerenciador de pacotes
+    Synaptic. Instalação e uso de dispositivos: impressoras, pendrive,
+    cd-rom, etc. Uso de \eng{live-cd}.
+*** História:
+    História do Linux, vantagens, software livre, documentação e
+    comunidade, distribuições, ambientes gráficos e customização.
+*** Instalação e uso do terminal (linha de comando).
 ** Latex
+*** introdução básica ao Kile
+*** criando um documento mínimo
+*** introdução básica ao LaTeX: o que é e para que serve
+*** comandos do LaTeX
+*** caracteres especiais
+*** títulos, capítulos e seções
+*** comandos para fontes
+*** ambientes para itemização, enumeração, descrição, código-fonte, e citações
+*** inclusão de gráficos
+*** tabelas, figuras
+*** criando comandos
+*** referências cruzadas
+*** bibliografia com BibTeX
+*** edição de fórmulas matemáticas
+*** usando estilos LaTeX da ANPPOM e SBC
+*** modificação do layout
 ** Lilypond
+*** Introdução ao Lilypond e software livre:
+**** Conceituação de Software livre, WYSIWYG
+**** Estrutura de funcionamento
+**** Apresentação dos  softwares de apoio
+**** \eng{Modus operandi}
+**** Introdução à sintaxe
+**** Instalação, configuração, e execução
+**** Entendimento do manual
+*** Expansão da introdução à sintaxe:
+**** Elementos de altura
+**** Elementos de tempo
+**** Elementos de articulação
+**** Elementos de dinâmica
+*** Edição de música para instrumento solo:
+**** Preparação do arquivo .ly
+**** Inserção de títulos
+**** Criação de arquivos MIDI
+**** Inserção de textos na partitura
+*** Edição de música para conjuntos e para piano
+**** Organização dos pentagramas
+**** Uso de variáveis
+**** Uso de vozes em um mesmo pentagrama
+*** Edição de música vocal e apreciação de outras potencialidades do Lilypond:
+**** Diferentes sintaxes para \eng{lyrics}
+**** Sintaxe para elisão e melisma
+**** Música vocal para conjunto
+**** Notação contemporânea
+**** Hacks básicos (comando \texttt{$\backslash$override})
+**** Lytex
+**** Edição de arquivos SVG
+**** Colaboração com o projeto (tradução, correção de bugs)
 ** Python
 ** Emacs
 ** Git
