@@ -71,4 +71,6 @@
 ** Musicologia computacional
 ** Contornos
 ** Harmonia
+*** Tarefas
+**** Análise harmônica do coral 001 de Bach (11/10/2010)
 ** Contraponto
