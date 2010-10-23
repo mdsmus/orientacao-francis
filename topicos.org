@@ -82,9 +82,9 @@
    - reconhecer repetições de estruturas
    - reconhecer instrumentos pelo timbre
    - relacionar repetições de estruturas e timbre
-** TODO Leitura do capítulo 2 da dissertação
+** SCHEDULED Leitura do capítulo 2 da dissertação
 ** TODO Leitura da revisão de literatura de Beard
-** TODO Análise harmônica de dois corais - 011
+** SCHEDULED Análise harmônica de dois corais - 011
 ** TODO Análise harmônica de lied
 ** TODO Análise harmônica da Sonata op.2 de Beethoven
 ** TODO Análise de invenção de Bach
