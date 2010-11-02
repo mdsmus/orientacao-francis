@@ -91,3 +91,15 @@
 ** TODO Análise da Fuga n.1 vol.1 do Cravo Bem Temperado
 ** TODO Audição da fuga n.4 vol.1 Cravo Bem Temperado
 ** TODO Análise harmônica da sonata n.2 de Hindemith
+** SCHEDULED Criação de figuras de CEMB (28/10/2010)
+** Análise de contornos de Webern op.5, II
+*** colecionar todos os fragmentos melódicos (observar klangfarbenmelodien)
+    - pensar na segmentação musical dos fragmentos. ver pausas,
+      dinâmicas, gestual
+    - criar lista com os fragmentos e os seus contornos
+*** buscar relações entre os contornos de todos os fragmentos utilizados
+    - ver fragmento c3, na viola compasso 2 (f# b g f)
+    - usar operações de translação, rotação, inversão, retrógrado e
+      subconjuntos
+*** expandir busca pelo resultado
+    - há outras estruturas com mesmo contorno?
