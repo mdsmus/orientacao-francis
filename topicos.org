@@ -83,7 +83,8 @@
    CLOSED: [2010-11-10 Wed 07:07]
 ** DONE Criação de figuras de CEMB (28/10/2010)
    CLOSED: [2010-11-10 Wed 07:08]
-** PROGRESS Audição 'analítica' de Scheherazade (18/10/2010)
+** DONE Audição 'analítica' de Scheherazade (18/10/2010)
+   CLOSED: [2010-11-12 Mon 06:45]
    ouvir primeiro movimento 4 vezes:
    - conhecer
    - reconhecer repetições de estruturas
@@ -93,18 +94,21 @@
 *** Leitura p. 3 a 8
     - trabalho escrito. esquema com nomes dos autores e 2 linhas sobre
       contribuição de cada um para a área de contornos
+** Catalogar operações de contornos em friedmann85.
+   - listar todas as operações utilizadas e seus resultados
 ** TODO Análise harmônica de lied
 ** TODO Análise harmônica da Sonata op.2 de Beethoven
 ** TODO Análise de invenção de Bach
 ** TODO Análise da Fuga n.1 vol.1 do Cravo Bem Temperado
 ** TODO Audição da fuga n.4 vol.1 Cravo Bem Temperado
 ** TODO Análise harmônica da sonata n.2 de Hindemith
-** Análise de contornos de Webern op.5, II
-*** SCHEDULED colecionar todos os fragmentos melódicos (observar klangfarbenmelodien)
+** PROGRESS Análise de contornos de Webern op.5, II
+*** DONE colecionar todos os fragmentos melódicos (observar klangfarbenmelodien)
+    CLOSED: [2010-11-18 Mon 06:45]
     - pensar na segmentação musical dos fragmentos. ver pausas,
       dinâmicas, gestual
     - criar lista com os fragmentos e os seus contornos
-*** buscar relações entre os contornos de todos os fragmentos utilizados
+*** PROGRESS buscar relações entre os contornos de todos os fragmentos utilizados
     - ver fragmento c3, na viola compasso 2 (f# b g f)
     - usar operações de translação, rotação, inversão, retrógrado e
       subconjuntos
