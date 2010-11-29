@@ -90,6 +90,21 @@
    - reconhecer repetições de estruturas
    - reconhecer instrumentos pelo timbre
    - relacionar repetições de estruturas e timbre
+** DONE Análise de contornos de Webern op.5, II
+   CLOSED: [2010-11-26 Mon 07:18]
+*** DONE colecionar todos os fragmentos melódicos (observar klangfarbenmelodien)
+    CLOSED: [2010-11-18 Mon 06:45]
+    - pensar na segmentação musical dos fragmentos. ver pausas,
+      dinâmicas, gestual
+    - criar lista com os fragmentos e os seus contornos
+*** DONE buscar relações entre os contornos de todos os fragmentos utilizados
+    CLOSED: [2010-11-26 Mon 07:18]
+    - ver fragmento c3, na viola compasso 2 (f# b g f)
+    - usar operações de translação, rotação, inversão, retrógrado e
+      subconjuntos
+*** DONE expandir busca pelo resultado
+    CLOSED: [2010-11-26 Mon 07:18]
+    - há outras estruturas com mesmo contorno?
 ** PROGRESS Leitura da revisão de literatura de Beard (5/11/2010)
 *** Leitura p. 3 a 8
     - trabalho escrito. esquema com nomes dos autores e 2 linhas sobre
@@ -102,15 +117,3 @@
 ** TODO Análise da Fuga n.1 vol.1 do Cravo Bem Temperado
 ** TODO Audição da fuga n.4 vol.1 Cravo Bem Temperado
 ** TODO Análise harmônica da sonata n.2 de Hindemith
-** PROGRESS Análise de contornos de Webern op.5, II
-*** DONE colecionar todos os fragmentos melódicos (observar klangfarbenmelodien)
-    CLOSED: [2010-11-18 Mon 06:45]
-    - pensar na segmentação musical dos fragmentos. ver pausas,
-      dinâmicas, gestual
-    - criar lista com os fragmentos e os seus contornos
-*** PROGRESS buscar relações entre os contornos de todos os fragmentos utilizados
-    - ver fragmento c3, na viola compasso 2 (f# b g f)
-    - usar operações de translação, rotação, inversão, retrógrado e
-      subconjuntos
-*** expandir busca pelo resultado
-    - há outras estruturas com mesmo contorno?
